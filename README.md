@@ -1,8 +1,12 @@
 <h1 align="center">Hi! I'm Cristian Herrera</h1>
 <h3 align="center">Full Stack Developer from Colombia with a background in Finance managing databases to make better financial decisions.</h3>
+
 - I'm currently working on **a social media platform for amateur musitians looking to share their talent.**
+
 - Ask me about **Back-end Development**
+  
 - Fun fact **I only use codespace to code, reducing errors.**
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/cristian-david-herrera-gomez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cristian-david-herrera-gomez" height="30" width="40" /></a>
